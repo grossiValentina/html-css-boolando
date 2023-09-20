@@ -3,3 +3,45 @@
     margin: 0;
     box-sizing: border-box;
 }
+img {
+    max-width: 100%;
+}
+
+/* HEADER */
+/*/ HEADER */
+
+/* MAIN */
+
+ /* CONTENITORE */
+ .contenitore {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 2rem;
+ }
+ .riga {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+ }
+ .col {
+    width: calc(90% / 3);
+    margin-bottom: 4rem;
+    
+ }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+/*/ MAIN */
+
+/* FOOTER */
+/*/ FOOTER */
