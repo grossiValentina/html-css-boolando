@@ -87,6 +87,21 @@ img {
     left: 5px;
 
 }
+i {
+    background-color: white;
+    position: absolute;
+    right: 0;
+    top: 7px;
+    z-index: 2;
+    padding: 8px;
+
+
+}
+i:hover {
+    color: red;
+    position: absolute;
+    z-index: 
+}
 
 
 
